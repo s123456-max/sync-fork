@@ -9,3 +9,5 @@ https://github.com/settings/tokens
 ![图片](https://user-images.githubusercontent.com/59247205/206336509-fca19166-be46-4899-87c3-673fcdef7ee2.png)
 
 3. secrets添加第二步的token到action_token中
+
+![图片](https://user-images.githubusercontent.com/59247205/206336616-a11b3e5d-b1bd-446f-ab9c-43584fdfef71.png)
