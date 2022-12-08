@@ -10,7 +10,7 @@ on:
   watch:                                                        # 监视操作
     types: [started]                                            # 点击 Star 之后
 jobs:
-  update_external_airflow_fork:
+  update_fork:
     runs-on: ubuntu-latest
     steps:
       - uses: TobKed/github-forks-sync-action@master
