@@ -6,7 +6,7 @@ on:
       -master
   workflow_dispatch:
   schedule:
-    - cron: 0 16 * * *   # 每隔12小时
+    - cron: 0 16 * * *   # 每天12点自动同步
   watch:                                                        # 监视操作
     types: [started]                                            # 点击 Star 之后
 jobs:
