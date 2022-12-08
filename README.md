@@ -1,4 +1,4 @@
-# 对fork的zzuClock仓库进行自动同步
+# 对fork的zzuClock仓库进行自动同步（每天0点更新）
 1. 在main.yml中更改要推送的仓库（到你自己的仓库下）：
 
 ![图片](https://user-images.githubusercontent.com/59247205/206337796-0b3ba16b-f785-4ff8-9e15-f1b287f8932f.png)
